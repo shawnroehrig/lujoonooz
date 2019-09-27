@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hishukaep.india360.co/sitemap.xml
